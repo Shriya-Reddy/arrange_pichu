@@ -1,10 +1,3 @@
-#!/usr/local/bin/python3
-#
-# arrange_pichus.py : arrange agents on a grid, avoiding conflicts
-#
-# Submitted by : Name : SHRIYA REDDY PULAGAM, Usename : spulagam
-#
-# Based on skeleton code in CSCI B551, Fall 2021.
 
 import sys
 
